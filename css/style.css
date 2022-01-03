@@ -480,7 +480,7 @@ h1, h2, h3 {
 .subscribe__bg-img {
   position: absolute;
   height: 250px;
-  left: 93%;
+  left: 90%;
   background-image: url('../images/teamwork__bg.svg');
   background-repeat: no-repeat;
   background-position: top right;
